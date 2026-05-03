@@ -14,8 +14,9 @@
         }
 
         header {
+            font-size: 11px;
             display: grid;
-            grid-template-columns: repeat(3,1fr);
+            grid-template-columns:repeat(3,1fr);
             background-color: #222325;
             color: white;
             padding: 20px 20px;
